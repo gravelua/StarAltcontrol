@@ -1,1 +1,8 @@
 
+-- discord.gg/altcontrols
+-- i removed anti afk from this so u skids dont touch it xd
+local player = game.Players.LocalPlayer -- dont touch
+local admsg = ".gg/starcash" --admin message
+local isamod = false -- dont touch
+local prefix = "-" --Prefix u can choose a custom one
+local mods = {NathanielBoyer49} --Ur leader account
