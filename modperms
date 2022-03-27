@@ -1,8 +1,17 @@
-
--- discord.gg/altcontrols
--- i removed anti afk from this so u skids dont touch it xd
-local player = game.Players.LocalPlayer -- dont touch
-local admsg = ".gg/starcash" --admin message
-local isamod = false -- dont touch
-local prefix = "-" --Prefix u can choose a custom one
-local mods = {NathanielBoyer49} --Ur leader account
+getgenv().Host = '' -- HOST ACC
+getgenv().FPS = 3 -- YOUR FPS AMOUNT
+getgenv().AutoChatMsg = 'Star AltControl on top!' -- SPONSOR MESSAGE
+getgenv().Prefix = '.' --PREFIX CAN BE HANGED
+getgenv().Alts = {
+    Bringer = ,
+    Alt1 = ,
+    Alt2 = ,
+    Alt3 = ,
+    Alt4 = ,
+    Alt5 = ,
+    Alt6 = ,
+    Alt7 = ,
+    Alt8 = ,
+    Alt9 = ,
+    Alt10 = ,
+}
